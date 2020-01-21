@@ -11,9 +11,17 @@ Using OpenCore. (because I'm 2modern4u)
 ## Configuration
 
 CPU : i7-7700HQ
+
+
 GPU : Intel HD 630 + GTX 1060
+
+
 RAM : 16GB
+
+
 STORAGE : 128GB (for MacOS)
+
+
 OS : MacOS Mojave
 
 ## Features
@@ -23,4 +31,7 @@ OS : MacOS Mojave
  - [x] Wi-Fi (after change)
  - [x] Bluetooth (after change)
  - [x] Microphone
-
+ - [x] Intel Chipset
+ - [x] **NO GTX 1060 - No drivers from nVidia,very cool**
+ 
+ **If you want the GTX,go to High Sierra**
