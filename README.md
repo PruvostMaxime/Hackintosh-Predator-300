@@ -10,19 +10,19 @@ Using OpenCore. (because I'm 2modern4u)
 
 ## Configuration
 
-CPU : i7-7700HQ
+**CPU** : i7-7700HQ
 
 
-GPU : Intel HD 630 + GTX 1060
+**GPU** : Intel HD 630 + GTX 1060
 
 
-RAM : 16GB
+**RAM** : 16GB
 
 
-STORAGE : 128GB (for MacOS)
+**STORAGE** : 128GB (for MacOS)
 
 
-OS : MacOS Mojave
+**OS** : MacOS Mojave
 
 ## Features
  - [x] Brightness
