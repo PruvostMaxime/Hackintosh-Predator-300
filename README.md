@@ -16,7 +16,7 @@ Using OpenCore. (because I'm 2modern4u)
 **GPU** : Intel HD 630 + GTX 1060
 
 
-**RAM** : 24GB @ 2400Mhz (yup,it's the maximum frequency
+**RAM** : 24GB @ 2400Mhz (yup,it's the maximum frequency)
 
 
 **STORAGE** : 128GB (for MacOS)
