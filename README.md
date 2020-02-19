@@ -10,19 +10,19 @@ Using OpenCore. (because I'm 2modern4u)
 
 ## Configuration
 
-**CPU** : i7-7700HQ
+**CPU** : i7-7700HQ @ 2,8Ghz
 
 
 **GPU** : Intel HD 630 + GTX 1060
 
 
-**RAM** : 16GB
+**RAM** : 24GB @ 2400Mhz (yup,it's the maximum frequency
 
 
 **STORAGE** : 128GB (for MacOS)
 
 
-**OS** : MacOS Mojave
+**OS** : MacOS Mojave ( **WIP** : Files for Catalina )
 
 ## Features
  - [x] Brightness
@@ -32,6 +32,7 @@ Using OpenCore. (because I'm 2modern4u)
  - [x] Bluetooth (after change)
  - [x] Microphone
  - [x] Intel Chipset
- - [x] **NO GTX 1060 - No drivers from nVidia,very cool**
+ - [x] USB Ports
+ - [x] **NO GTX 1060 - No drivers from nVidia,very cool nVidia**
  
- **If you want the GTX,go to High Sierra**
+ **If you want the GTX,go to High Sierra** (you can install the webdrivers,but it's really crap,don't do this , guys)
