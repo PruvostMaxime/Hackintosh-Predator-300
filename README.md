@@ -1,4 +1,10 @@
-# Hackintosh Predator Helios 300
+# Hackintosh Predator Helios 300 (gonna be updated with V2 soon)
+
+## V2 Features :
+ - 100% working touchpad
+ - (maybe) adding nvidia webdrivers so HDMI will work
+ - MacOS Cataline
+ 
 
 Hello !
 
