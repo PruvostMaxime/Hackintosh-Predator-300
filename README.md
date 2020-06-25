@@ -1,16 +1,12 @@
-# Hackintosh Predator Helios 300 (Warning : Deprecated soon)
+# Hackintosh Predator Helios 300 (DEPRECATED)
 
-## V2 Features :
- - 100% working touchpad
- - (maybe) adding nvidia webdrivers so HDMI will work
- - MacOS Catalina
- 
- 
+If you want to fork this repo for newest version of Opencore,feel free
 
 Hello !
 
 This is my configuration for installing MacOS on my Acer Predator Helios 300.
-Using OpenCore. (because I'm 2modern4u)
+Using OpenCore. 
+# OPENCORE 0.5.3 ONLY !
 
 ![configuration](https://i.ibb.co/d6TfF5x/Capture-d-cran-2020-01-21-09-08-26.png)
 ## How to install
@@ -18,9 +14,7 @@ Using OpenCore. (because I'm 2modern4u)
 
 MacOS High Sierra or Mojave image (use GibMacOS)
 Make your bootable USB with MakeInstall from GibMacOS
-
-Replace the USB EFI with an EFI folder and take the BOOT / OC from my Ryzentosh build (will be fixed soon)
-Replace all OC content from Ryzentosh to the one into this repository
+Put Opencore and replace the content with the one of the repo
 
 Enjoy
 
@@ -28,17 +22,13 @@ Enjoy
 
 **CPU** : i7-7700HQ @ 2,8Ghz
 
-
 **GPU** : Intel HD 630 + GTX 1060
 
-
-**RAM** : 24GB @ 2400Mhz (yup,it's the maximum frequency)
-
+**RAM** : 24GB @ 2400Mhz 
 
 **STORAGE** : 128GB (for MacOS)
 
-
-**OS** : MacOS Mojave ( **WIP** : Files for Catalina )
+**OS** : MacOS Mojave
 
 ## Features
 # Working
